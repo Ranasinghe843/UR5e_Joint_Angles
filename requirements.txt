@@ -1,0 +1,6 @@
+bpy
+matplotlib
+modern-robotics
+numpy
+pandas
+scipy
